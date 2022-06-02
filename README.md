@@ -6,4 +6,4 @@ The goal is to find the largest square in a given map within the smallest amount
 
 Compile with make command
 
-USAGE : $./bsq (map_file)
+USAGE : $./bsq [map_file]
